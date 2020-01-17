@@ -1,5 +1,5 @@
-require 'nokogirl'
-
+require 'nokogiri'
+require 'open-uri'
 # require libraries/modules here
 
 
